@@ -1,5 +1,5 @@
 # 스마트 반려동물 등록·유기 신고 및 입지 최적화 솔루션
-![image](https://github.com/user-attachments/assets/6d4cada3-c2a2-4d9d-b0da-f38b9443a0e2)
+
 
 
 ## 📚 프로젝트 개요
